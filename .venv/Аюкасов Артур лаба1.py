@@ -10,5 +10,7 @@ def proverca_4():
     print('Не найти сокровища Энии - времени пыль смыло волной ')
 if __name__ == '__main__':
     main()
+    proverca_2()
+    proverca_3()
     proverca_4()
     
